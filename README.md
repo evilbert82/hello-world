@@ -1,2 +1,2 @@
-# hello-world
-Hello API
+# HelloAPI
+Hello API is a practice RESTful API.
